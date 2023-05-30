@@ -1,2 +1,1 @@
-# PrepCurso-Jhon
-Este es un repositorio de prueba del Modulo 2 de Jhon
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora.
